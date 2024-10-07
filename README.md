@@ -29,4 +29,4 @@ Este trabalho foi realizado como última atividade do curso de Introdução à P
 \item Recursão;
 \item Dicionários e Tuplas;
 \item Bibliotecas científicas (Numpy e Matplotlib).
-/end(itemize)
+\end(itemize)
