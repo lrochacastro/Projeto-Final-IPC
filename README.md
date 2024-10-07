@@ -17,13 +17,16 @@ Projeto final individual realizado ao fim da matéria de Introdução à Program
 Este trabalho foi realizado como última atividade do curso de Introdução à Programação de Computadores, disciplina obrigatória do curso de Bacharelado em Física na Universidade Federal de Minas Gerais. Ele objetiva testar os conhecimentos em Python aprendidos ao longo do semestre de 2024/1 a partir do uso de bibliotecas científicas para criar gráficos baseados em dados reais. 
 
 # Tópicos abordados em Python
-> Variáveis, expressões e declarações;
-> Comandos Condicionais;
-> Funções;
-> Comandos de repetição;
-> Manipulação de Strings;
-> Listas;
-> Arquivos;
-> Recursão;
-> Dicionários e Tuplas;
-> Bibliotecas científicas (Numpy e Matplotlib).
+
+\begin(itemize)
+\item Variáveis, expressões e declarações
+\item Comandos Condicionais;
+\item Funções;
+\item Comandos de repetição;
+\item Manipulação de Strings;
+\item Listas;
+\item Arquivos;
+\item Recursão;
+\item Dicionários e Tuplas;
+\item Bibliotecas científicas (Numpy e Matplotlib).
+/end(itemize)
