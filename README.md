@@ -13,4 +13,4 @@ Projeto final individual realizado ao fim da matéria de Introdução à Program
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Conclusão](#conclusão)
 
-# Descrição do projeto(#descrição-do-projeto)
+# Descrição do projeto
