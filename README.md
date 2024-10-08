@@ -1,4 +1,4 @@
-![images](https://github.com/user-attachments/assets/7e089861-280f-43a1-8fb1-98d421ac52c0)
+<h1 align="center"> ![images](https://github.com/user-attachments/assets/7e089861-280f-43a1-8fb1-98d421ac52c0)
 
 <h1 align="center"> Projeto Final - Introdução à Programação de Computadores </h1>
 Projeto final individual realizado ao fim da matéria de Introdução à Programação de Computadores; 1º semestre do curso de Bacharelado em Física, Universidade Federal de Minas Gerais.
